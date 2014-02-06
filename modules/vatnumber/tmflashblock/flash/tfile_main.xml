@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<section>
+		<image bigImage="modules/tmflashblock/img/image_1.png" widthImage="585" heightImage="882"/>
+		<image bigImage="modules/tmflashblock/img/image_2.png" widthImage="585" heightImage="882"/>
+		<image bigImage="modules/tmflashblock/img/image_3.png" widthImage="585" heightImage="882"/>
+		<image bigImage="modules/tmflashblock/img/image_4.png" widthImage="585" heightImage="882"/>
+		<image bigImage="modules/tmflashblock/img/image_5.png" widthImage="585" heightImage="882"/>
+	</section>
+</content>

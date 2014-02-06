@@ -1,0 +1,122 @@
+
+<table style="text-align: right; direction: rtl; font-family: tahoma; font-size: 11px; color: #374953; width: 550px;" align="right">
+<tbody>
+<tr>
+<td align="right"><a title="{shop_name}" href="{shop_url}"><img style="border: none;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="right">سلام <strong style="color: #db3484;">{firstname} {lastname}</strong>، با تشکر از خرید شما از <strong>{shop_name}</strong>.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #db3484; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="right">جزئیات سفارش</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="right">سفارش: <strong><span style="color: #db3484;">{order_name}</span> در تاریخ {date}</strong> <br />پرداخت: <strong>{payment}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="right">{products} {discounts}  
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;">
+<!-- Title --> 
+<tbody>
+<tr style="background-color: #b9babe; text-align: center;">
+<th style="width: 15%; padding: 0.6em 0;">مرجع</th><th style="width: 35%; padding: 0.6em 0;">محصول</th><th style="width: 15%; padding: 0.6em 0;">واحد پولی</th><th style="width: 15%; padding: 0.6em 0;">مبلغ</th><th style="width: 20%; padding: 0.6em 0;">جمع کل</th>
+</tr>
+<!-- Products --><!-- Footer: prices --> 
+<tr style="text-align: left;">
+<td>&nbsp;</td>
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;" colspan="3">محصولات</td>
+<td style="background-color: #b9babe; padding: 0.6em 0.4em;">{total_products}</td>
+</tr>
+<tr style="text-align: left;">
+<td>&nbsp;</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;" colspan="3">تخفیف&zwnj;ها</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_discounts}</td>
+</tr>
+<tr style="text-align: left;">
+<td>&nbsp;</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;" colspan="3">کادو پیچی</td>
+<td style="background-color: #ebecee; padding: 0.6em 0.4em;">{total_wrapping}</td>
+</tr>
+<tr style="text-align: left;">
+<td>&nbsp;</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;" colspan="3">حمل</td>
+<td style="background-color: #dde2e6; padding: 0.6em 0.4em;">{total_shipping}</td>
+</tr>
+<tr style="text-align: left; font-weight: bold;">
+<td>&nbsp;</td>
+<td style="background-color: #f1aecf; padding: 0.6em 0.4em;" colspan="3">جمع پرداخت&zwnj;ها</td>
+<td style="background-color: #f1aecf; padding: 0.6em 0.4em;">{total_paid}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #db3484; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="right">حمل</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="right">حامل: <strong>{carrier}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;">
+<tbody>
+<tr style="background-color: #b9babe; text-transform: uppercase;">
+<th style="text-align: right; padding: 0.3em 1em;">آدرس تحویل</th><th style="text-align: right; padding: 0.3em 1em;">آدرس پرداخت وجه</th>
+</tr>
+<tr>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;">{delivery_block_html}</td>
+<td style="padding: 0.5em 0 0.5em 0.5em; background-color: #ebecee;">{invoice_block_html}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="right">شما میتوانید سفارش خود را بازبینی کنید و فاکتور خود را در <a style="color: #db3484; font-weight: bold; text-decoration: none;" href="{shop_url}history.php">"بخش تاریخچه&zwnj;ی سفارشات"</a> از حساب کاربری خود با کلیک بر روی <a style="color: #db3484; font-weight: bold; text-decoration: none;" href="{shop_url}my-account.php">"حساب کاربری من"</a> در وبسایت ما مشاهده کنید.</td>
+</tr>
+<tr>
+<td align="right">اگر شما حساب میهمان دارید میتوانید سفارش خود را از بخش <a style="color: #db3484; font-weight: bold; text-decoration: none;" href="{shop_url}guest-tracking.php">"راهنمای مهمانان"</a> در وبسایت ما پیگیری کنید.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #D9DADE;" align="center">
+<table style="width: 550px; font-family: Tahoma; color: #374953; font-size: 11px;" border="0" align="right">
+<tbody>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #d9dade;" dir="ltr" align="center">
+<p><a style="color: #db3484; font-weight: bold; text-decoration: none;" href="http://matrixsoft.ir/shop/admin1/%7Bshop_url%7D">{shop_name}</a><br />&nbsp;Powered with PrestaShop&trade; &amp; Supported By <a href="http:///" target="_blank">Www.MatrixSoft.Ir </a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

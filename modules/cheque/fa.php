@@ -1,0 +1,51 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cheque}prestashop>payment_a5967aadef7d23b5027d46e107faf6d0'] = 'پرداخت با چک';
+$_MODULE['<{cheque}prestashop>payment_30bee0e9549e97b2f65f8fd8fc5948be'] = 'پرداخت با چک (فرآیند سفارش طولانی ترمی باشد)';
+$_MODULE['<{cheque}prestashop>payment_execution_83aa0e5744c86bf2d9d006319db14839'] = 'پرداخت با چک';
+$_MODULE['<{cheque}prestashop>payment_execution_f1d3b424cd68795ecaa552883759aceb'] = 'خلاصه سفارش';
+$_MODULE['<{cheque}prestashop>payment_execution_879f6b8877752685a966564d072f498f'] = 'سبدخرید شما خالی است.';
+$_MODULE['<{cheque}prestashop>payment_execution_c42b053ef8c36f950ff37a0897d3a963'] = 'چک';
+$_MODULE['<{cheque}prestashop>payment_execution_6b3ef039e038a131d05bcd208a1b9799'] = 'شما پرداخت با چک را انتخاب کردید.';
+$_MODULE['<{cheque}prestashop>payment_execution_c884ed19483d45970c5bf23a681e2dd2'] = 'خلاصه ای کوتاه از سفارش شما:';
+$_MODULE['<{cheque}prestashop>payment_execution_e2867a925cba382f1436d1834bb52a1c'] = 'مجموع مبلغ سفارش شما';
+$_MODULE['<{cheque}prestashop>payment_execution_1f87346a16cf80c372065de3c54c86d9'] = '(با مالیات)';
+$_MODULE['<{cheque}prestashop>payment_execution_2f1585fcd1150d6a7d6edbe3468a63f8'] = 'ما از ارز های متفاوتی برای چک ها پشتیبانی می کنیم.';
+$_MODULE['<{cheque}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'یکی از موارد مقابل را انتخاب کنید:';
+$_MODULE['<{cheque}prestashop>payment_execution_c4309902a6192747d56f3539941acc49'] = 'ما ارزهای زیر را جهت ارسال با چک قبول می کنیم:';
+$_MODULE['<{cheque}prestashop>payment_execution_504be670f962fa7630863857a0085632'] = 'اطلاعات صاحب چک و آدرس آن در صفحه بعد نمایش داده می شود.';
+$_MODULE['<{cheque}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'لطفاً سفارش خود را با کلیک کردن بر روی \"من سفارش خود را تأیید می کنم\" تأیید کنید';
+$_MODULE['<{cheque}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'روش های دیگر پرداخت';
+$_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'من سفارش خود را تأیید می کنم';
+$_MODULE['<{cheque}prestashop>payment_return_2e2117b7c81aa9ea6931641ea2c6499f'] = 'سفارش شما در';
+$_MODULE['<{cheque}prestashop>payment_return_75fbf512d744977d62599cc3f0ae2bb4'] = 'کامل است.';
+$_MODULE['<{cheque}prestashop>payment_return_e4ee6e0eac588fe2611cc6fd195828af'] = 'لطفاً یک چک با مشخصات زیر بفرستید:';
+$_MODULE['<{cheque}prestashop>payment_return_a35abd2d31d9e1da82599bc67e166506'] = 'به مبلغ';
+$_MODULE['<{cheque}prestashop>payment_return_84cca8efe379645790938f55b701a1a4'] = 'قابل دریافت در وجه';
+$_MODULE['<{cheque}prestashop>payment_return_c5a6826dd3b059e32a3fa1ae029179de'] = 'ارسال نامه الکترونیکی به';
+$_MODULE['<{cheque}prestashop>payment_return_13f4ac6dc75b5829499cb9cf8b733071'] = 'یک نامه ی الکترونیکی با این اطلاعات به شما فرستاده شده است.';
+$_MODULE['<{cheque}prestashop>payment_return_ffd2478830ca2f519f7fe7ee259d4b96'] = 'سفارش شما بمحض اينکه ما پرداخت شما را دریافت کنیم فرستاده می شود.';
+$_MODULE['<{cheque}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'جهت هرگونه سؤال یا اطلاعات بیشتر، لطفاً تماس بگیرید با';
+$_MODULE['<{cheque}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'پشتیبانی مشتریان';
+$_MODULE['<{cheque}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'ما متوجه وجود یک مشکل در سفارش شما شدیم. اگر فکر می کنید که خطایی روی داده است، می توانید با ما تماس بگیرید';
+$_MODULE['<{cheque}prestashop>cheque_060bf2d587991d8f090a1309b285291c'] = 'چک';
+$_MODULE['<{cheque}prestashop>cheque_44cd16893a0a7731735c02999cc81adc'] = 'ماژولی جهت پذیرش پرداخت با چک.';
+$_MODULE['<{cheque}prestashop>cheque_fa214007826415a21a8456e3e09f999d'] = 'آیا مطمین هستید که می خواهید جزییاتتان را حذف کنید؟';
+$_MODULE['<{cheque}prestashop>cheque_1fddeba3cee2a70b37a20889e124948a'] = '\"در وجه\" و آدرس باید جهت استفاده صحیح از این ماژول بطور دقیق تعیین شوند.';
+$_MODULE['<{cheque}prestashop>cheque_4402acab1c8f90dcf4a31dc96833bd86'] = 'هیچ ارزی برای این ماژول تنظیم نشده است';
+$_MODULE['<{cheque}prestashop>cheque_a0048063a9be52816b7fa7f17aa3a2b7'] = 'فیلد \"در وجه\" مورد نیاز است.';
+$_MODULE['<{cheque}prestashop>cheque_4b5e20a521d31cc44b9690bd35eaacfc'] = 'آدرس مورد نیاز است.';
+$_MODULE['<{cheque}prestashop>cheque_e0aa021e21dddbd6d8cecec71e9cf564'] = 'تأیید';
+$_MODULE['<{cheque}prestashop>cheque_c888438d14855d7d96a2724ee9c306bd'] = 'تنظیمات بروز شد';
+$_MODULE['<{cheque}prestashop>cheque_14e41f4cfd99b10766cc15676d8cda66'] = 'این ماژول به شما اجازه قبول پرداخت توسط چک را می دهد.';
+$_MODULE['<{cheque}prestashop>cheque_3b39b241f115e5823eeca07df2949a35'] = 'اگر مشتری این روش پرداخت را انتخاب کند، وضعیت سفارش به \"منتظر برای پرداخت\" تغییر می کند.';
+$_MODULE['<{cheque}prestashop>cheque_4d96735a584217fd2d8a4edec43935d6'] = 'بنابرین، شما باید زمانی که چک را تحویل گرفتید، بصورت دستی سفارش را تأیید کنید.';
+$_MODULE['<{cheque}prestashop>cheque_5dd532f0a63d89c5af0243b74732f63c'] = 'جزئیات ارتباط';
+$_MODULE['<{cheque}prestashop>cheque_d75e7b0f61c58d5d1cef7b56322c8b21'] = 'لطفاً نام و آدرسی که مشتریان باید چک هایشان را بفرستند، مشخص کنید.';
+$_MODULE['<{cheque}prestashop>cheque_75475839e69bef6ed57a8200a5a71d37'] = 'در وجه';
+$_MODULE['<{cheque}prestashop>cheque_dd7bf230fde8d4836917806aff6a6b27'] = 'آدرس';
+$_MODULE['<{cheque}prestashop>cheque_b17f3f4dcf653a5776792498a9b44d6a'] = 'بروز رسانی تنظیمات';
+
+?>

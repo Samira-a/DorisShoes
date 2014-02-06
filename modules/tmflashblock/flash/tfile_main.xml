@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<section>
+		<image bigImage="modules/tmflashblock/img/image_1.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_2.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_3.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_4.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_5.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_6.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_7.jpg" widthImage="585" heightImage="500"/>
+		<image bigImage="modules/tmflashblock/img/image_8.jpg" widthImage="585" heightImage="500"/>
+	</section>
+</content>

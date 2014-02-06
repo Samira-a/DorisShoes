@@ -1,0 +1,29 @@
+سلام
+
+سفارش جدید از
+{firstname} {lastname} ({email}) 
+در
+{shop_name}
+
+سفارش: {order_name}
+ثبت شده در: {date}
+حامل: {carrier}
+پرداخت: {payment}
+تخفیف: {total_discounts}
+ارسال: {total_shipping}
+محصولات: {total_products}
+کادوپیچی: {total_wrapping}
+کل پرداختی: {total_paid}
+
+آدرس تحویل:
+{delivery_block_txt}
+
+آدرس صورتحساب:
+{invoice_block_txt}
+
+پیام مشتری:
+{message}
+
+
+
+{shop_url}

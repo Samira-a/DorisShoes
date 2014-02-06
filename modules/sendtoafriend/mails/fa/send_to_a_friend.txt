@@ -1,0 +1,14 @@
+سلام {name}
+
+
+{customer}
+ لینکی را برای شما فرستاده، که فکر می کند مورد علاقه شما باشد
+
+{product}: {product_link}
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url}

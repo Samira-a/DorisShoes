@@ -1,0 +1,11 @@
+سلام؛
+
+{firstname} {lastname}
+از شما خواسته است که لیست علاقمندی وی را ببینید
+
+{wishlist} :
+{message}
+
+
+
+{shop_url}

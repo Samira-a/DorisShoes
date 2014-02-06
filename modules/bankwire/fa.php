@@ -1,0 +1,56 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = 'پرداخت توسط فیش بانکی';
+$_MODULE['<{bankwire}prestashop>payment_eb1d50032721fa4c9d3518c417f91b9d'] = 'پرداخت توسط فیش بانکی (اطلاعات پرداخت را بعدا ارسال کنید)';
+$_MODULE['<{bankwire}prestashop>payment_execution_c5e8668ba5e211603955f0b5e913d83d'] = 'پرداخت از طریق فیش بانکی';
+$_MODULE['<{bankwire}prestashop>payment_execution_f1d3b424cd68795ecaa552883759aceb'] = 'خلاصه سفارش';
+$_MODULE['<{bankwire}prestashop>payment_execution_879f6b8877752685a966564d072f498f'] = 'سبد خرید شما خالی است.';
+$_MODULE['<{bankwire}prestashop>payment_execution_e40a43534d7f4ece69347847d75401e0'] = 'فیش بانکی';
+$_MODULE['<{bankwire}prestashop>payment_execution_afda466128ee0594745d9f8152699b74'] = 'شما پرداخت توسط فیش بانکی را انتخاب کرده اید.';
+$_MODULE['<{bankwire}prestashop>payment_execution_c884ed19483d45970c5bf23a681e2dd2'] = 'خلاصه کوتاهی از سفارش شما:';
+$_MODULE['<{bankwire}prestashop>payment_execution_e2867a925cba382f1436d1834bb52a1c'] = 'جمع مبلغ سفارش شما';
+$_MODULE['<{bankwire}prestashop>payment_execution_1f87346a16cf80c372065de3c54c86d9'] = '(با مالیات)';
+$_MODULE['<{bankwire}prestashop>payment_execution_e2c147f82d998eeeb147ae172a31a88e'] = 'ما از چند واحد پول جهت واریز به بانک پشتیبانی می کنیم.';
+$_MODULE['<{bankwire}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'یکی از موارد زیر را انتخاب کنید:';
+$_MODULE['<{bankwire}prestashop>payment_execution_2c1ce705702e11fd5e2188c2353c0c86'] = 'واحدهای پولی مقابل جهت واریز بانکی پذیرفته میشوند:';
+$_MODULE['<{bankwire}prestashop>payment_execution_3dd021316505c0204989f984246c6ff1'] = 'اطلاعات حساب بانکی در صفحه بعد نمایش داده خواهد شد.';
+$_MODULE['<{bankwire}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'لطفاً سفارش خود را با کلیک بر روی \"من سفارشم را تأیید می کنم\" تصدیق کنید';
+$_MODULE['<{bankwire}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'روش های دیگر پرداخت';
+$_MODULE['<{bankwire}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'من سفارشم را تأیید می کنم';
+$_MODULE['<{bankwire}prestashop>payment_return_2e2117b7c81aa9ea6931641ea2c6499f'] = 'سفارش شما در';
+$_MODULE['<{bankwire}prestashop>payment_return_75fbf512d744977d62599cc3f0ae2bb4'] = 'کامل و ثبت شد.';
+$_MODULE['<{bankwire}prestashop>payment_return_1552c5916ccfe019f35d91fd8955755e'] = 'لطفاً فیش بانکی را با این مشخصات ارسال کنید:';
+$_MODULE['<{bankwire}prestashop>payment_return_a35abd2d31d9e1da82599bc67e166506'] = 'به میزان';
+$_MODULE['<{bankwire}prestashop>payment_return_c51326a2ac458845d579a82a92f111f0'] = 'به نام';
+$_MODULE['<{bankwire}prestashop>payment_return_de6d813f05e3916a86b89bd8b1a8a489'] = 'با این اطلاعات';
+$_MODULE['<{bankwire}prestashop>payment_return_619b26a60df1af3649d2e8920a7949cd'] = 'به این بانک';
+$_MODULE['<{bankwire}prestashop>payment_return_4fac1f51a5f4b3dd634800fe3d408a45'] = 'فراموش نکنید که شماره سفارش را';
+$_MODULE['<{bankwire}prestashop>payment_return_4460fcb45ad7a6a61c95293eb611da12'] = 'در بالای فیش خود بنویسید';
+$_MODULE['<{bankwire}prestashop>payment_return_13f4ac6dc75b5829499cb9cf8b733071'] = 'ایمیلی با این اطلاعات به پست الکترونیک شما ارسال شد.';
+$_MODULE['<{bankwire}prestashop>payment_return_c4457a9f2f20e39386008bbb2cd3a78f'] = 'سفارش شما به محض دریافت اطلاعات پرداخت، تکمیل خواهد شد.';
+$_MODULE['<{bankwire}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'جهت طرح هرگونه سؤال یا اطلاعات بیشتر، لطفاً تماس بگیرید با';
+$_MODULE['<{bankwire}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'پشتیبانی مشتریان';
+$_MODULE['<{bankwire}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'ما متوجه وجود یک مشکل در سفارش شما شدیم. اگر فکر می کنید که خطایی روی داده است، می توانید تماس بگیرید با';
+$_MODULE['<{bankwire}prestashop>bankwire_85ee0d0492a4e37e6c183520f5d59c40'] = 'فیش بانکی';
+$_MODULE['<{bankwire}prestashop>bankwire_f652b92eefd4ecfe61ef5fb118157a05'] = 'پذیرش پرداخت ها توسط فیش بانکی';
+$_MODULE['<{bankwire}prestashop>bankwire_69a1a3ad8dd5da6db3c4da838a0cf9c7'] = 'آیا از حذف جزئیات حساب خود، مطمئن هستید؟';
+$_MODULE['<{bankwire}prestashop>bankwire_f05d09f37c9a02f0737c1e71142028a9'] = 'مالک و دیگر جزئیات حساب برای استفاده از این ماژول باید بصورت صحیح تنظیم شوند.';
+$_MODULE['<{bankwire}prestashop>bankwire_4402acab1c8f90dcf4a31dc96833bd86'] = 'هیچ واحد پولی برای این ماژول تعیین نشده است';
+$_MODULE['<{bankwire}prestashop>bankwire_bfa43217dfe8261ee7cb040339085677'] = 'جزئیات حساب مورد نیاز است.';
+$_MODULE['<{bankwire}prestashop>bankwire_ccab155f173ac76f79eb192703f86b18'] = 'مالک حساب را مشخص کنید.';
+$_MODULE['<{bankwire}prestashop>bankwire_444bcb3a3fcf8389296c49467f27e1d6'] = 'ثبت';
+$_MODULE['<{bankwire}prestashop>bankwire_c888438d14855d7d96a2724ee9c306bd'] = 'تنظیمات بروز شد';
+$_MODULE['<{bankwire}prestashop>bankwire_fcec4d73cccd149a2d18695fd8785f88'] = 'این ماژول به شما امکان پذیرش پرداخت ها توسط فیش بانکی را می دهد.';
+$_MODULE['<{bankwire}prestashop>bankwire_b6af2d31afe71aedcceca73cc27fec29'] = 'اگر مشتری این نوع پرداخت را انتخاب کند، وضعیت سفارش به حالت \"انتظار برای پرداخت\" تغییر می کند.';
+$_MODULE['<{bankwire}prestashop>bankwire_0daeb8f6c1874ec9442e821b524d37c1'] = 'بنابراین، شما باید سفارش را بطور دستی و پس از دریافت اطلاعات پرداخت، تایید کنید.';
+$_MODULE['<{bankwire}prestashop>bankwire_5dd532f0a63d89c5af0243b74732f63c'] = 'جزئیات تماس';
+$_MODULE['<{bankwire}prestashop>bankwire_17e6954ea60d238857324fea1f10b8f3'] = 'لطفاً جزئیات حساب بانکی را برای مشتریان مشخص کنید';
+$_MODULE['<{bankwire}prestashop>bankwire_857216dd1b374de9bf54068fcd78a8f3'] = 'مالک حساب';
+$_MODULE['<{bankwire}prestashop>bankwire_3ec365dd533ddb7ef3d1c111186ce872'] = 'جزئیات ';
+$_MODULE['<{bankwire}prestashop>bankwire_6b154cafbab54ba3a1e76a78c290c02a'] = 'از قبیل نام بانک، شعبه آن، شماره کارت و غیره';
+$_MODULE['<{bankwire}prestashop>bankwire_f9a1a1bb716cbae0503d351ea2af4b34'] = 'آدرس بانک';
+$_MODULE['<{bankwire}prestashop>bankwire_b17f3f4dcf653a5776792498a9b44d6a'] = 'بروز رسانی تنظیمات';
+
+?>

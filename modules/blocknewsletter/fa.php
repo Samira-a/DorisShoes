@@ -1,0 +1,58 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ffb7e666a70151215b4c55c6268d7d72'] = 'خبرنامه';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_416f61a2ce16586f8289d41117a2554e'] = 'پست الکترونیک شما';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_b26917587d98330d93f87808fc9d7267'] = 'عضویت اشتراک';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_4182c8f19d40c7ca236a5f4f83faeb6b'] = 'حذف اشتراک';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_9e31b08a00c1ed653bcaa517dee84714'] = 'بخش خبرنامه';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ba457fab18d697d978befb95e827eb91'] = 'افزودن یک بلوک برای عضویت در خبرنامه.';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_179bbcbd2e1104cdf9dcecd91264a961'] = 'آیا مطمئن هستید، می خواهید همه تماس هایتان را حذف کنید؟';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_f0e9c1e3969d351170373b5cec2131c2'] = 'کد فاکتور معتبر نمی باشد';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ff0a3b7f3daef040faf89a88fdac01b7'] = 'بروز شد';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_f4f70727dc34561dfde1a3c529b6205c'] = 'تنظیمات';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_a3399c10bd24eba0b78fbd595c51f81a'] = 'نمایش تنظیمات در صفحه جدید؟';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_a6105c0a611b41b08f1209506350279e'] = 'بله';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_7fa3b767c460b54a2be4d49030b349c7'] = 'خیر';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_b68ae6efae2fca059754c27ff94494cd'] = 'ارسال ایمیل تاییدیه پس از عضویت؟';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_506e58042922bff5bd753dc612e84f5b'] = 'کد فاکتور خوش آمدگویی';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_de3bd7faad12c79178b1b22bf6119e35'] = 'برای غیر فعال کردن خالی رها کنید';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_06933067aafd48425d67bcb01bba5cb6'] = 'بروز رسانی';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_6e659c47c94d1e1dc7121859f43fb2b0'] = 'آدرس پست الکترونیک نامعتبر می باشد';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_9e6df6e72be5be5b8ff962ee3406907e'] = 'آدرس پست الکترونیک ثبت نشده است';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_29003419c075963848f1907174bdc224'] = 'خطایی در زمان حذف اشتراک رخ داده است';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_f7dc297e2a139ab4f5a771825b46df43'] = 'حذف اشتراک با موفقیت انجام شد';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_8dc3b88902df97bb96930282e56ed381'] = 'این آدرس پست الکترونیک قبلاً ثبت شده است';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_b7d9eb38dd2e375648ab08e224e22e43'] = 'خطایی در زمان عضویت اشتراک رخ داده است';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ed3cd7b3cc134222fa70602921ec27e1'] = 'اشتراک با موفقیت ایجاد شد';
+$_MODULE['<{newsletter}prestashop>newsletter_ffb7e666a70151215b4c55c6268d7d72'] = 'خبرنامه';
+$_MODULE['<{newsletter}prestashop>newsletter_804a924e464fd21ed92f820224c4091d'] = 'تولید یک فایل CSV برای ارسال انبوه ایمیل';
+$_MODULE['<{newsletter}prestashop>newsletter_c3987e4cac14a8456515f0d200da04ee'] = 'همه کشورها';
+$_MODULE['<{newsletter}prestashop>newsletter_fa01fd956e87307bce4c90a0de9b0437'] = 'کشور مشتری';
+$_MODULE['<{newsletter}prestashop>newsletter_c0859b0a5241dff468da2a9a93c3284f'] = 'اعمال فیلتر بر روی کشور مشتری.';
+$_MODULE['<{newsletter}prestashop>newsletter_2198f293f5e1e95dddeff819fbca0975'] = 'مشترکین خبرنامه';
+$_MODULE['<{newsletter}prestashop>newsletter_99006a61d48499231e1be92241cf772a'] = 'فیلتر کردن مشترک های خبرنامه.';
+$_MODULE['<{newsletter}prestashop>newsletter_7e3a51a56ddd2846e21c33f05e0aea6f'] = 'همه مشتریان';
+$_MODULE['<{newsletter}prestashop>newsletter_39f7a3e2b56e9bfd753ba6325533a127'] = 'مشترک ها';
+$_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] = 'غیر مشترک ها';
+$_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = 'مشترک های انتخاب شده';
+$_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = 'مشترک های انتخاب شده فیلتر شده.';
+$_MODULE['<{newsletter}prestashop>newsletter_82e5e0bc0f9c776c98253d569c111c0f'] = 'هیچ مشتری با این فیلترها پیدا نشد!';
+$_MODULE['<{newsletter}prestashop>newsletter_d526d090aa22242fa5f6acfccc6bd007'] = 'فایل CSV با موفقیت ساخته شد.';
+$_MODULE['<{newsletter}prestashop>newsletter_55caa4828d4e935c2ba9f1558f1c4edd'] = 'مشتری(ان) یافت شد';
+$_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = 'دانلود فایل';
+$_MODULE['<{newsletter}prestashop>newsletter_faa1115fbab933e7178ee43ce1590977'] = 'هشدار: اگر این فایل csv. را با Excel باز می کنید، فراموش نکنید که از انکودینگ UTF-8 استفاده کنید در غیر این صورت کاراکترهای نامشخصی خواهید دید.';
+$_MODULE['<{newsletter}prestashop>newsletter_81573e0ea79138f02fd2cee94786d7e9'] = 'خطا: عدم توانایی نوشتن بر روی';
+$_MODULE['<{newsletter}prestashop>newsletter_8d550e9bf69bfc7a09be6eeb1622ae23'] = 'دو دسته از این ماژول وجود دارد:';
+$_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] = 'افرادی که در بلوک خبرنامه در Front Office ثبت کرده اند.';
+$_MODULE['<{newsletter}prestashop>newsletter_27d1ec406fd2baf49d03f81a4bb41122'] = 'این یک لیست از آدرس های ایمیل افرادی است که به فروشگاه شما آمده اند و مشتری شما نیستند ولی درخواست خبرنامه کرده اند. از گزینه \"صدور مشترکین خبرنامه\" در زیر، برای ساخت یک فایل CSV بر اساس اطلاعات بلوک مشترکین خبرنامه استفاره کنید.';
+$_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = 'مشتریانی که گزینه \"بله\" را برای دریافت یک خبرنامه در پروفایل خود علامت زده اند.';
+$_MODULE['<{newsletter}prestashop>newsletter_1aa14f5a6423dbde1ef2cfe4734980b4'] = 'بخش \"استخراج مشترکین\" در زیر امکان گزینشی کردن مشتریانی که قصد ارسال خبرنامه را به آنها دارید، بر عهده دارد.';
+$_MODULE['<{newsletter}prestashop>newsletter_b192ab83a19105bbf1e2d1fab548249a'] = 'صدور مشترکین خبرنامه';
+$_MODULE['<{newsletter}prestashop>newsletter_a60401e616125189d78605b2ddd7ff45'] = 'ساخت یک فایل CSV بر اساس اطلاعات مشترکین بلوک خبرنامه';
+$_MODULE['<{newsletter}prestashop>newsletter_dbb392a2dc9b38722e69f6032faea73e'] = 'صدور فایل CSV';
+$_MODULE['<{newsletter}prestashop>newsletter_4713ef5f2d6fc1e8f088c850e696a04b'] = 'صدور مشترکن';
+$_MODULE['<{newsletter}prestashop>newsletter_2f5a2bf1a10d25a408a8bab945e4dd3c'] = 'ساخت یک فایل CSV از اطلاعات حساب مشتری ها';
+
+?>
